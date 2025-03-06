@@ -5,3 +5,16 @@ langchain_community
 langchain-core
 langchain_google_genai
 python-dotenv
+google-search-results
+
+
+langchain-huggingface
+langgraph-checkpoint-postgres
+psycopg
+psycopg-pool
+psycopg-binary
+pinecone
+pinecone-client
+langchain-pinecone
+pinecone-notebooks
+sentence-transformers
